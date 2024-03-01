@@ -1,0 +1,16 @@
+{
+    "tarefas":[
+        {
+            "id":0,
+            "nome":"tarefa 1",
+            "descrição":"descrição da tarefa 1",
+            "status":"ociosa"
+        },
+        {
+            "id":1,
+            "nome":"tarefa 2",
+            "descrição":"descrição da tarefa 2",
+            "status":"em andamento"
+        }
+    ]
+}
