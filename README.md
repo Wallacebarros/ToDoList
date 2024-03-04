@@ -1,2 +1,2 @@
-# ToDoList
-um projeto bem simples de uma lista de tarefas
+# To Do List (branch - table)
+- branch dedicada a implementação do html e css principal do projeto
